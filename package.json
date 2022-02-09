@@ -1,0 +1,15 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "a contactList web app to store contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghavgoyal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
